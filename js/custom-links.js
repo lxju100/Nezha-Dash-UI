@@ -9,10 +9,6 @@
 window.CustomLinks = JSON.stringify([
   { link: "https://blog.sssvip.de", name: "Blog", icon: "icon-book" },
   {
-    name: "Telegram",
-    icon: "icon-paper-plane",
-  },
-  {
     link: "https://km.sssvip.de",
     name: "Komari",
     icon: "icon-hourglass-start",
@@ -82,4 +78,5 @@ if (document.readyState === 'loading') {
 } else {
   initCustomLinks();
 }
+
 
