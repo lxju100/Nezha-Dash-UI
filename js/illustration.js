@@ -16,7 +16,7 @@ function initIllustration() {
   const setupIllustration = () => {
     img.style.position = "absolute";
     img.style.right = "-10px";
-    img.style.top = "-120px";
+    img.style.top = "-100px";
     img.style.zIndex = "10";
     img.style.width = "120px";
     img.style.transition =
@@ -254,3 +254,4 @@ if (document.readyState === 'loading') {
 } else {
   initIllustration();
 }
+
