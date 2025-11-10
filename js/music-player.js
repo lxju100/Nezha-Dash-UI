@@ -34,25 +34,25 @@ window.EnableMusicPlayer = true; // 是否启用音乐播放器（true/false）
 window.MusicPlayerBallSize = 50; // 悬浮球尺寸（单位：像素）
 window.MusicPlayerAutoCollapse = 2600; // 自动收起面板的延迟时间（单位：毫秒）
 window.MusicPlayerTitle = "NeZha Music Player"; // 音乐播放器标题/默认艺术家名称（当文件名无"-"时使用）
-window.MusicPlayerAPIUrl = "https://music.588945.xyz/api/music/list"; // 音乐列表API地址
+window.MusicPlayerAPIUrl = "https://music.sssvip.de/api/music/list"; // 音乐列表API地址
 window.MusicPlayerDefaultVolume = 0.2; // 默认音量（范围：0-1）
 
 // GitHub 链接配置
-window.MusicPlayerGitHubUrl = "https://github.com/kamanfaiz/Nezha-Dash-UI"; // GitHub仓库链接（留空或false则不显示图标）
+window.MusicPlayerGitHubUrl = "https://github.com/lxju100/Nezha-Dash-UI"; // GitHub仓库链接（留空或false则不显示图标）
 window.MusicPlayerGitHubIconSize = 28; // GitHub 图标容器大小（单位：像素）
 
 // 封面配置
 window.MusicPlayerCoverList = [ // 封面图片列表（随机分配给歌曲）
-  "https://cdn.jsdelivr.net/gh/kamanfaiz/Nezha-Dash-UI@main/cover/cover01.jpg",
-  "https://cdn.jsdelivr.net/gh/kamanfaiz/Nezha-Dash-UI@main/cover/cover02.jpg",
-  "https://cdn.jsdelivr.net/gh/kamanfaiz/Nezha-Dash-UI@main/cover/cover03.jpg",
-  "https://cdn.jsdelivr.net/gh/kamanfaiz/Nezha-Dash-UI@main/cover/cover04.jpg",
-  "https://cdn.jsdelivr.net/gh/kamanfaiz/Nezha-Dash-UI@main/cover/cover05.jpg",
-  "https://cdn.jsdelivr.net/gh/kamanfaiz/Nezha-Dash-UI@main/cover/cover06.jpg",
-  "https://cdn.jsdelivr.net/gh/kamanfaiz/Nezha-Dash-UI@main/cover/cover07.jpg",
-  "https://cdn.jsdelivr.net/gh/kamanfaiz/Nezha-Dash-UI@main/cover/cover08.jpg",
-  "https://cdn.jsdelivr.net/gh/kamanfaiz/Nezha-Dash-UI@main/cover/cover09.jpg",
-  "https://cdn.jsdelivr.net/gh/kamanfaiz/Nezha-Dash-UI@main/cover/cover10.jpg",
+  "https://cdn.jsdelivr.net/gh/lxju100/Nezha-Dash-UI@main/cover/cover01.jpg",
+  "https://cdn.jsdelivr.net/gh/lxju100/Nezha-Dash-UI@main/cover/cover02.jpg",
+  "https://cdn.jsdelivr.net/gh/lxju100/Nezha-Dash-UI@main/cover/cover03.jpg",
+  "https://cdn.jsdelivr.net/gh/lxju100/Nezha-Dash-UI@main/cover/cover04.jpg",
+  "https://cdn.jsdelivr.net/gh/lxju100/Nezha-Dash-UI@main/cover/cover05.jpg",
+  "https://cdn.jsdelivr.net/gh/lxju100/Nezha-Dash-UI@main/cover/cover06.jpg",
+  "https://cdn.jsdelivr.net/gh/lxju100/Nezha-Dash-UI@main/cover/cover07.jpg",
+  "https://cdn.jsdelivr.net/gh/lxju100/Nezha-Dash-UI@main/cover/cover08.jpg",
+  "https://cdn.jsdelivr.net/gh/lxju100/Nezha-Dash-UI@main/cover/cover09.jpg",
+  "https://cdn.jsdelivr.net/gh/lxju100/Nezha-Dash-UI@main/cover/cover10.jpg",
 ];
 
 // 视觉效果配置
