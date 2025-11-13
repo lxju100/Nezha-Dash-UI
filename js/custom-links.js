@@ -8,11 +8,7 @@
 // ------------------ 自定义链接配置 ------------------
 window.CustomLinks = JSON.stringify([
   { link: "https://blog.sssvip.de", name: "Blog", icon: "icon-book" },
-  {
-    link: "https://km.sssvip.de",
-    name: "Komari",
-    icon: "icon-hourglass-start",
-  },
+  { link: "https://km.sssvip.de", name: "Komari", icon: "icon-hourglass-start" },
 ]); // 导航栏的自定义链接 (JSON格式), 新增 icon 字段，请确保 icon值为 iconfont.css 中真实存在的 class
 
 // ------------------ 顶部链接图标配置 ------------------
@@ -78,5 +74,6 @@ if (document.readyState === 'loading') {
 } else {
   initCustomLinks();
 }
+
 
 
